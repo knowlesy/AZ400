@@ -16,3 +16,12 @@ Documentation taken from the 2023 Build Devops Challange see details in the [wik
 * [Monitoring Application Performance with Application Insights](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M09_L16_Monitoring_Application_Performance_with_Application_Insights.html)
 * [Implement Security and Compliance in an Azure DevOps pipeline](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M07_L13_Implement_Security_and_Compliance_in_an_Azure_Pipeline.html)
 * [Managing technical debt with SonarCloud and Azure DevOps](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M07_L14_Managing_technical_debt_with_SonarQube_and_Azure_DevOps.html)
+* [How to maintain a secure GitHub repository](https://learn.microsoft.com/en-us/training/modules/maintain-secure-repository-github/2-how-to-maintain-secure-repository)
+* [Capture and view page load times in your Azure web app with Application Insights](https://learn.microsoft.com/en-us/training/modules/capture-page-load-times-application-insights/)
+* [Manage site reliability](https://learn.microsoft.com/en-us/training/modules/manage-site-reliability/)
+* [Run nonfunctional tests in Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/run-non-functional-tests-azure-pipelines/)
+
+
+**Reading**
+* [Oreilly Books SRE](https://sre.google/books/)
+* [What is a SRE](https://sre.google/in-conversation/)
