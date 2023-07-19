@@ -20,8 +20,11 @@ Documentation taken from the 2023 Build Devops Challange see details in the [wik
 * [Capture and view page load times in your Azure web app with Application Insights](https://learn.microsoft.com/en-us/training/modules/capture-page-load-times-application-insights/)
 * [Manage site reliability](https://learn.microsoft.com/en-us/training/modules/manage-site-reliability/)
 * [Run nonfunctional tests in Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/run-non-functional-tests-azure-pipelines/)
+* [Manage repository changes by using pull requests on GitHub](https://learn.microsoft.com/en-us/training/modules/manage-changes-pull-requests-github/)
+* [Manage software delivery by using a release based workflow on GitHub](https://learn.microsoft.com/en-us/training/modules/release-based-workflow-github/)
+* [Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
 
-
+  
 **Reading**
 * [Oreilly Books SRE](https://sre.google/books/)
 * [What is a SRE](https://sre.google/in-conversation/)
