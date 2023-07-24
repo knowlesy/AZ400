@@ -23,6 +23,10 @@ Documentation taken from the 2023 Build Devops Challange see details in the [wik
 * [Manage repository changes by using pull requests on GitHub](https://learn.microsoft.com/en-us/training/modules/manage-changes-pull-requests-github/)
 * [Manage software delivery by using a release based workflow on GitHub](https://learn.microsoft.com/en-us/training/modules/release-based-workflow-github/)
 * [Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
+* [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
+* [Host your own build agent in Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/host-build-agent/)
+* [Run a self-hosted agent in Docker](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops)
+
 
   
 **Reading**
