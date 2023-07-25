@@ -26,7 +26,8 @@ Documentation taken from the 2023 Build Devops Challange see details in the [wik
 * [Create a build pipeline with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/)
 * [Host your own build agent in Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/host-build-agent/)
 * [Run a self-hosted agent in Docker](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops)
-
+* [Manage build dependencies with Azure Artifacts](https://learn.microsoft.com/en-us/training/modules/manage-build-dependencies/)
+  
 
   
 **Reading**
