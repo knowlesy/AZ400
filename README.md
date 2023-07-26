@@ -17,6 +17,8 @@
 
 Documentation taken from the 2023 Build Devops Challange see details in the [wiki](https://github.com/knowlesy/AZ400/wiki )
 
+[Self learn modules from MS](https://learn.microsoft.com/en-us/certifications/exams/az-400/?source=learn#:~:text=Items%20in%20this%20collection)
+
 **Exercises**
 * [Deploying Docker containers to Azure App Service web apps](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L06_Deploying_Docker_containers_to_Azure_App_Service_web_apps.html)
 * [Configuring Pipelines as Code with YAML](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M05_L08_Configuring_Pipelines_as_Code_with_YAML.html)
