@@ -46,6 +46,17 @@ Documentation taken from the 2023 Build Devops Challange see details in the [wik
 * [Manage build dependencies with Azure Artifacts](https://learn.microsoft.com/en-us/training/modules/manage-build-dependencies/)
 * [Build Python apps](https://learn.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python?view=azure-devops)
 * [Run functional tests in Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/run-functional-tests-azure-pipelines/)
+* [Reviewing pull requests](https://learn.microsoft.com/en-us/training/modules/manage-changes-pull-requests-github/3-review-pull-requests)
+* [Explore DevOps Culture](https://learn.microsoft.com/en-us/training/modules/introduce-foundation-pillars-devops/3-explore-first-foundation)
+* [What is Azure Artifacts?](https://learn.microsoft.com/en-us/training/modules/manage-build-dependencies/2b-what-is-azure-artifacts)
+* [Publish NuGet packages with Azure Pipelines (YAML/Classic)](https://learn.microsoft.com/en-us/azure/devops/pipelines/artifacts/nuget?view=azure-devops&tabs=yaml#package-versioning)
+* [Azure Keyvaults](https://learn.microsoft.com/en-us/training/modules/configure-and-manage-azure-key-vault/)
+* [Authenticate apps to Azure services by using service principals and managed identities for Azure resources](https://learn.microsoft.com/en-us/training/modules/authenticate-apps-with-managed-identities/)
+* [Build applications on the cloud](https://learn.microsoft.com/en-us/training/modules/cmu-build-apps-cloud/)
+* [Manage release cadence in Azure Pipelines by using deployment patterns](https://learn.microsoft.com/en-us/training/modules/manage-release-cadence/)
+* [Create a multistage pipeline by using Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/create-multi-stage-pipeline/)
+* [Introduction to App Center](https://learn.microsoft.com/en-us/training/modules/intro-to-app-center/)
+* [Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines](https://azuredevopslabs.com/labs/vstsextend/terraform/)
 
   
 **Reading**
